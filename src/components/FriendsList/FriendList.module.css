@@ -1,0 +1,50 @@
+.item{
+
+    width: 200px;
+    height: 100%;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    display: flex;
+    padding: 10px;
+    background-color: #fff;
+ 
+}
+
+.item:not(:last-child){
+   margin-bottom: 10px;
+
+}
+
+.list{
+    margin-top: 40px;
+    margin-left: 50px;
+
+}
+
+.name{
+margin-top: auto;
+margin-bottom: auto;
+margin-left: 15px;
+font-weight: 700;
+
+}
+
+.status{
+
+width: 15px;
+height: 15px;
+border-radius: 50%;
+margin-top: auto;
+margin-bottom: auto;
+margin-right: 10px;
+
+}
+
+.true{
+    composes: status;
+    background-color: rgb(30, 172, 42);
+}
+
+.false{
+    composes: status;
+    background-color: rgb(218, 32, 19);
+}

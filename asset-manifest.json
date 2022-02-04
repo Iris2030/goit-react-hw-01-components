@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Iris2030/test.git/static/css/main.073c9b0a.css",
+    "main.js": "/Iris2030/test.git/static/js/main.44fd2461.js",
+    "static/js/787.0c3f432a.chunk.js": "/Iris2030/test.git/static/js/787.0c3f432a.chunk.js",
+    "static/media/logo.svg": "/Iris2030/test.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Iris2030/test.git/index.html",
+    "main.073c9b0a.css.map": "/Iris2030/test.git/static/css/main.073c9b0a.css.map",
+    "main.44fd2461.js.map": "/Iris2030/test.git/static/js/main.44fd2461.js.map",
+    "787.0c3f432a.chunk.js.map": "/Iris2030/test.git/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.44fd2461.js"
+  ]
+}
